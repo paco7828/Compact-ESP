@@ -1,0 +1,17 @@
+MCU - https://www.hestore.hu/prod_10037786.html
+AMS1117 3.3V - https://www.hestore.hu/prod_10040193.html
+USB to Serial - https://www.hestore.hu/prod_10036442.html
+USB C connector - https://www.hestore.hu/prod_10046970.html
+Micro USB connector - https://www.hestore.hu/prod_10032693.html
+2x 22uF capacitor - https://www.hestore.hu/prod_10044732.html
+10uF capacitor - https://www.hestore.hu/prod_10032047.html
+2x 100nF capacitor - https://www.hestore.hu/prod_10001122.html
+2x buttons - https://www.hestore.hu/prod_10043772.html
+10k resistor - https://www.hestore.hu/prod_10040338.html
+2x Schottky diode - https://www.hestore.hu/prod_10039694.html
+1uF capacitor - https://www.hestore.hu/prod_10030163.html
+100R resistor - https://www.hestore.hu/prod_10001142.html
+2x 5.1k resistor - https://www.hestore.hu/prod_10001349.html
+2x 22R resistor - https://www.hestore.hu/prod_10001250.html 
+LED - https://www.hestore.hu/prod_10043215.html
+220R resistor - https://www.hestore.hu/prod_10001162.html

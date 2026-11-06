@@ -1,0 +1,42 @@
+IO25 = Analog + DAC
+IO26 = Analog + DAC
+IO27 = Analog + Touch
+IO32 = Analog + Touch
+IO33 = Analog + Touch
+IO34 = Analog
+IO35 = Analog
+IO36 = Analog
+IO39 = Analog
+IO2 = Analog + Touch
+IO4 = Analog + Touch
+IO21 = SDA
+IO22 = SCL
+
+IO11 = Serial1 RTS + CS
+IO6 = Serial1 CTS + CLK
+IO7 = Serial2 RTS + MISO
+IO8 = Serial2 CTS + MOSI
+
+IO15 = Analog + Touch + H CS
+IO14 = Analog + Touch + H CLK
+IO13 = Analog + Touch + H MOSI
+IO12 = Analog + Touch + H MISO
+
+IO5 = V CS
+IO18 = V CLK
+IO23 = V MOSI
+IO19 = V MISO
+
+IO3 = RX
+IO1 = TX
+IO9 = S1 RX + HD
+IO10 = S1 TX + WP
+IO16 = S2 RX
+IO17 = S2 TX
+
+GND
+GND
+5V
+5V
+3.3V
+3.3V
